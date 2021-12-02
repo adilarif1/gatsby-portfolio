@@ -1,10 +1,14 @@
 import React from "react"
-import { Link } from "gatsby"
+import { graphql,Link } from "gatsby"
 import Layout from "./components/Layout"
 import {header, btn} from "../styles/home.module.css"
-export default function Home() {
-  return (
+import { StaticImage } from "gatsby-plugin-image"
 
+export default function Home({data}) {
+
+  console.log(data)
+  return (
+  
     <Layout>
     <section className={header}>
       <div>
@@ -21,3 +25,18 @@ export default function Home() {
   )
   
 }
+export const query = graphql`query MyQuery {
+  site {
+    host
+    id
+    port
+    parent {
+      id
+    }
+    siteMetadata {
+      title
+      description
+    }
+  }
+}
+`

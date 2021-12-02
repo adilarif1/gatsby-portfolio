@@ -7,4 +7,15 @@
 module.exports = {
   /* Your site config here */
   plugins: [],
+  siteMetadata:{
+    title: 'Adil Arif',
+    description: 'Web Developer Mobile Developer Glasgow'
+
+  },
+  plugins: [
+    `gatsby-plugin-image`,
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`, // Needed for dynamic images
+  ],
 }
+
