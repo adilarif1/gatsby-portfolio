@@ -6,16 +6,24 @@
 
 module.exports = {
   /* Your site config here */
-  plugins: [],
+  
+  plugins: [ 
+    
+    'gatsby-transformer-remark',
+    {
+    resolve: `gatsby-source-filesystem`,
+    options: {
+      name: `projects`,
+      path: `${__dirname}/src/pages/projects/`,
+    },
+  },],
+    
+    
   siteMetadata:{
     title: 'Adil Arif',
     description: 'Web Developer Mobile Developer Glasgow'
 
   },
-  plugins: [
-    `gatsby-plugin-image`,
-    `gatsby-plugin-sharp`,
-    `gatsby-transformer-sharp`, // Needed for dynamic images
-  ],
+  
 }
 

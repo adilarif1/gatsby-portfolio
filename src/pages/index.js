@@ -6,7 +6,7 @@ import { StaticImage } from "gatsby-plugin-image"
 
 export default function Home({data}) {
 
-  console.log(data)
+  //console.log(data)
   return (
   
     <Layout>
@@ -25,18 +25,5 @@ export default function Home({data}) {
   )
   
 }
-export const query = graphql`query MyQuery {
-  site {
-    host
-    id
-    port
-    parent {
-      id
-    }
-    siteMetadata {
-      title
-      description
-    }
-  }
-}
-`
+
+
