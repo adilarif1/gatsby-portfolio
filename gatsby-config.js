@@ -10,18 +10,31 @@ module.exports = {
   plugins: [ 
     
     'gatsby-transformer-remark',
+    `gatsby-plugin-image`,
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`,
     {
     resolve: `gatsby-source-filesystem`,
     options: {
       name: `projects`,
-      path: `${__dirname}/src/pages/projects/`,
+      path: `${__dirname}/src/projects/`,
+    },
+  },
+
+
+  {
+    resolve: `gatsby-source-filesystem`,
+    options: {
+      name: `images`,
+      path: `${__dirname}/src/images/`,
     },
   },],
     
     
   siteMetadata:{
     title: 'Adil Arif',
-    description: 'Web Developer Mobile Developer Glasgow'
+    description: 'Web Developer Mobile Developer Glasgow',
+    contact: 'adildev89@gmail.com',
 
   },
   
