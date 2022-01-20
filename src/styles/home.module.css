@@ -1,12 +1,30 @@
-.header {
+* {
+  box-sizing: border-box;
+}
+
+.flexcontainer {
+  display: flex;
+  flex-direction: row;
+  font-size: 30px;
+  text-align: center;
+}
+
+.flexitemleft {
   
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 40px;
-    align-items: center;
-  }
+  padding: 10px;
+  flex: 50%;
+}
+
+.flexitemright {
+  
+  padding: 10px;
+  flex: 50%;
+  
+}
+
   .header h2 {
     font-size: 4em;
+    padding-top: 20px;
   }
   .header h3 {
     font-size: 3em;
@@ -21,3 +39,10 @@
     margin-top: 20px;
     font-weight: 500;
   }
+
+  /* Responsive layout - makes a one column-layout instead of two-column layout */
+@media (max-width: 800px) {
+  .flexcontainer {
+    flex-direction: column;
+  }
+}
