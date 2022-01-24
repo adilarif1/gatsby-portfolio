@@ -1,6 +1,6 @@
 ---
-title: Retro Gaming Zone
-stack: Svelte & Firebase
+title: JustMeat
+stack: Node JS & React
 slug: retro-gaming-zone
 thumb: ../images/thumbs/coffee.png
 featured: ../images/featured/coffee-banner.png

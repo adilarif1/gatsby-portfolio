@@ -1,6 +1,6 @@
 ---
-title: Real Kitchen Food
-stack: Gatsby & Shopify
+title: Covid Data Geolocation
+stack: Android Studio & Java
 slug: real-kitchen-food
 thumb: ../images/thumbs/coffee.png
 featured: ../images/featured/coffee-banner.png

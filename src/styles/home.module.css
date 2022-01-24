@@ -2,6 +2,19 @@
   box-sizing: border-box;
 }
 
+
+.hand1{
+  
+}
+
+.hand2{
+  position: fixed;
+  bottom: 50;
+  left: 0;
+
+}
+
+
 .flexcontainer {
   display: flex;
   flex-direction: row;
@@ -16,7 +29,7 @@
 }
 
 .flexitemright {
-  
+  margin-top: 50px;
   padding: 10px;
   flex: 50%;
   

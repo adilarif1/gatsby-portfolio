@@ -1,6 +1,6 @@
 ---
-title: Skateboards2Go
-stack: Vue & Firebase
+title: Legal & Legal Solicitors
+stack: PHP & Wordpress
 slug: skateboards-to-go
 thumb: ../images/thumbs/coffee.png
 featured: ../images/featured/coffee-banner.png

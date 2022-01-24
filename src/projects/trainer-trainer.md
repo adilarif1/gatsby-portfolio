@@ -1,6 +1,6 @@
 ---
-title: Trainer Trainer
-stack: Gatsby & Shopify
+title: Rat Detection
+stack: Android Studio & Java
 slug: trainer-trainer
 thumb: ../images/thumbs/coffee.png
 featured: ../images/featured/coffee-banner.png

@@ -1,8 +1,8 @@
 ---
-title: The Drum Stop
-stack: Next.js
+title: No Starving Artist
+stack: Python & Anaconda
 slug: the-drum-stop
-thumb: ../images/thumbs/coffee.png
+thumb: ../images/thumbs/nsa.png
 featured: ../images/featured/coffee-banner.png
 ---
 
