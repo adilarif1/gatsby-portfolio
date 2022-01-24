@@ -1,7 +1,7 @@
 ---
 title: Covid Data Geolocation
 stack: Android Studio & Java
-slug: real-kitchen-food
+slug: nhs
 thumb: ../images/thumbs/coffee.png
 featured: ../images/featured/coffee-banner.png
 ---

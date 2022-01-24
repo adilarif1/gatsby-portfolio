@@ -1,7 +1,7 @@
 ---
-title: JustMeat
-stack: Node JS & React
-slug: retro-gaming-zone
+title: Rat Detection
+stack: Android Studio & Java
+slug: rat-detection
 thumb: ../images/thumbs/coffee.png
 featured: ../images/featured/coffee-banner.png
 ---

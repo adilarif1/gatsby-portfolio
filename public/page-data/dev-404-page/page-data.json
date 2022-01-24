@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---cache-dev-404-page-js",
     "path": "/dev-404-page/",
-    "result": {"data":{"allSiteFunction":{"nodes":[]},"allSitePage":{"nodes":[{"path":"/projects/Online Quran"},{"path":"/projects/real-kitchen-food"},{"path":"/projects/the-drum-stop"},{"path":"/projects/retro-gaming-zone"},{"path":"/projects/Legal & Legal Solicitors"},{"path":"/projects/trainer-trainer"},{"path":"/404/"},{"path":"/404.html"},{"path":"/about/"},{"path":"/"},{"path":"/components/Layout/"},{"path":"/components/Navbar/"},{"path":"/projects/"}]}},"pageContext":{}},
+    "result": {"data":{"allSiteFunction":{"nodes":[]},"allSitePage":{"nodes":[{"path":"/404/"},{"path":"/404.html"},{"path":"/about/"},{"path":"/"},{"path":"/components/Layout/"},{"path":"/components/Navbar/"},{"path":"/projects/"},{"path":"/projects/no-starving-artist"},{"path":"/projects/teach-me-quran"},{"path":"/projects/legal-solicitors"},{"path":"/projects/just-meat"},{"path":"/projects/nhs"},{"path":"/projects/rat-detection"}]}},"pageContext":{}},
     "staticQueryHashes": []}

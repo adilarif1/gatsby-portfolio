@@ -1,8 +1,8 @@
 ---
-title: No Starving Artist
-stack: Python & Anaconda
-slug: the-drum-stop
-thumb: ../images/thumbs/nsa.png
+title: JustMeat
+stack: Node JS & React
+slug: just-meat
+thumb: ../images/thumbs/coffee.png
 featured: ../images/featured/coffee-banner.png
 ---
 
