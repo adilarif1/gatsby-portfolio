@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---cache-dev-404-page-js",
     "path": "/dev-404-page/",
-    "result": {"data":{"allSiteFunction":{"nodes":[]},"allSitePage":{"nodes":[{"path":"/projects/nhs"},{"path":"/projects/rat-detection"},{"path":"/projects/no-starving-artist"},{"path":"/projects/just-meat"},{"path":"/projects/teach-me-quran"},{"path":"/projects/legal-solicitors"},{"path":"/404/"},{"path":"/404.html"},{"path":"/about/"},{"path":"/"},{"path":"/components/Layout/"},{"path":"/components/Navbar/"},{"path":"/projects/"}]}},"pageContext":{}},
+    "result": {"data":{"allSiteFunction":{"nodes":[]},"allSitePage":{"nodes":[{"path":"/projects/just-meat"},{"path":"/projects/legal-solicitors"},{"path":"/projects/nhs"},{"path":"/projects/no-starving-artist"},{"path":"/projects/rat-detection"},{"path":"/projects/teach-me-quran"},{"path":"/404/"},{"path":"/404.html"},{"path":"/about/"},{"path":"/"},{"path":"/components/Layout/"},{"path":"/components/Navbar/"},{"path":"/projects/"}]}},"pageContext":{}},
     "staticQueryHashes": []}

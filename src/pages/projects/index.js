@@ -32,34 +32,30 @@ export default function Home({data}) {
     )
 }
 
-export const query = graphql ` query ProjectPage {
-    projects: allMarkdownRemark {
-        nodes {
+// export page query
+export const query = graphql`
+  query ProjectsPage {
+    projects: allMarkdownRemark(sort: {order: DESC, fields: frontmatter___date}) {
+      nodes {
         frontmatter {
-            title
-            stack
-            slug
-            thumb {
+          slug
+          stack
+          title
+          thumb {
             childImageSharp {
-                gatsbyImageData(
-                    layout: FULL_WIDTH
-                    placeholder: BLURRED
-                    formats: [AUTO, WEBP]
-                    blurredOptions: {toFormat: PNG}
-                    transformOptions: {fit: COVER}
-                )
-                
+              fluid {
+                ...GatsbyImageSharpFluid
+              }
             }
-            }
+          }
         }
         id
-        }
+      }
     }
     contact: site {
-        siteMetadata {
+      siteMetadata {
         contact
-        }
+      }
     }
-    }
-  `
- 
+  }
+`
