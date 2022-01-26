@@ -32,30 +32,33 @@ export default function Home({data}) {
     )
 }
 
-// export page query
-export const query = graphql`
-  query ProjectsPage {
-    projects: allMarkdownRemark(sort: {order: DESC, fields: frontmatter___date}) {
-      nodes {
+export const query = graphql ` query ProjectPage {
+    projects: allMarkdownRemark {
+        nodes {
         frontmatter {
-          slug
-          stack
-          title
-          thumb {
+            title
+            stack
+            slug
+            thumb {
             childImageSharp {
-              fluid {
-                ...GatsbyImageSharpFluid
-              }
+                gatsbyImageData(
+                    layout: FULL_WIDTH
+                    placeholder: BLURRED
+                    formats: [AUTO, WEBP]
+                    blurredOptions: {toFormat: PNG}
+                    transformOptions: {fit: COVER}
+                )
+                
             }
-          }
+            }
         }
         id
-      }
+        }
     }
     contact: site {
-      siteMetadata {
+        siteMetadata {
         contact
-      }
+        }
     }
-  }
-`
+    }
+  `
