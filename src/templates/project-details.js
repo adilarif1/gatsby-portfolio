@@ -2,7 +2,7 @@ import { graphql } from 'gatsby';
 import React from 'react';
 import Layout from '../pages/components/Layout'
 import { GatsbyImage, getImage } from "gatsby-plugin-image";
-import {details, featured, html} from "../styles/project-details.module.css" 
+import * as styles from "../styles/project-details.module.css" 
 
 export default function ProjectDetails({ data }) {
     
