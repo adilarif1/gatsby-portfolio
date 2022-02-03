@@ -1,6 +1,7 @@
 import React from 'react'
 import Layout from '../components/Layout'
 import { GatsbyImage, getImage } from "gatsby-plugin-image";
+import {header, hand1 , btn, flexcontainer, flexitemleft, flexitemright, screen, innerdiv} from "../../styles/home.module.css"
 import {portfolio, projectstyle} from '../../styles/projects.module.css'
 import { graphql, Link } from 'gatsby'
 export default function Home({data}) {
@@ -9,6 +10,7 @@ export default function Home({data}) {
     const contact = data.contact.siteMetadata.contact
     return (
         <Layout>
+    
        <div className={portfolio}>
         <h2>Portfolio</h2>
         <h3>Projects & Websites I've created</h3>
@@ -28,6 +30,7 @@ export default function Home({data}) {
 
                 <p>Like what you see? Email me at: {contact} for a quote</p>
         </div> 
+   
         </Layout>
     )
 }

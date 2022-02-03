@@ -6,8 +6,9 @@ export default function about() {
         <Layout>
         <div>
             <h1>About Page</h1>
-            <p>Hi, I am Adil a developer in many areas of IT. I am passionate about mobile development, web development, AI and machine learning. I am a jack of all trades sort of guy that likes to indulge my skillset in different domains. Forexample, health, buisness, digital investments such as NFTS, crypto currinces. I hold a BSc Hons in Web and Mobile development and a MSc in Big Data. Currently in market for job opporutunites whether it may be full-time, part-time or contracted freelancing. </p>
-            <p>Undertaking a post grad degee in machine learning enables me to  treat large amounts of data in a fast and efficent way to implement data analysis, critical tnking and deployment  mobile or web applications  of large amounts of data and helped me understand the importance of data-info from not only a developer  that bridges the gap Have look at some of the unfinished projects that I'm working at my portfolio page.</p>            
+            <p>I am Adil, a web and mobile developer , holding a BSc Hons in Web and Mobile development from the University of the West of Scotland .Since I am passionate about everything that has to do with  AI and machine learning, I have enriched  my professional portfolio  with a postgraduate degree in data analytics.  Which enables me to treat large amounts of data in a fast and efficient way to be ultimately used in my web and mobile projects deployment.
+</p>
+            <p> I believe  that bridging the gap between the two degrees opens a lot of doors for me to be a jack of all trades ,as I have succeeded to indulge my skills set in different domains. For Example, health, business, digital investments as cryptocurrencies and NTFS  . Currently in the market  looking for the next chapter in my career .I am open for any full-time, part-time or contracted freelancing position.</p>            
         </div>
         </Layout>
     )

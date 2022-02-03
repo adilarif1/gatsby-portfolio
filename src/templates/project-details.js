@@ -3,14 +3,16 @@ import React from 'react';
 import Layout from '../pages/components/Layout'
 import { GatsbyImage, getImage } from "gatsby-plugin-image";
 import * as styles from "../styles/project-details.module.css" 
-
+import {header, hand1 , btn, flexcontainer, flexitemleft, flexitemright, screen, innerdiv} from "../styles/home.module.css"
 export default function ProjectDetails({ data }) {
     
     const { html } = data.markdownRemark
     const { title, stack, featuredImg } = data.markdownRemark.frontmatter
     
     return (
+        
         <Layout>
+            <div className={flexcontainer}>
             <div className={styles.details}>
                 <h2> { title } </h2>
                 <h3> { stack } </h3>
@@ -20,7 +22,9 @@ export default function ProjectDetails({ data }) {
                 </div>
                 <div className={styles.html} dangerouslySetInnerHTML={{ __html: html }} />
             </div>
+            </div>
         </Layout>
+        
     )
 }
 

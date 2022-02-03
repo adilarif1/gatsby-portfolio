@@ -4,11 +4,21 @@ stack: Python & Anaconda
 slug: no-starving-artist
 date: 2021-04-01T00:00:00+00:00
 thumb: ../images/thumbs/nsa.png
-featuredImg: ../images/featured/coffee-banner.png
+featuredImg: ../images/featured/nsa.png
 ---
 
-Lorem ninja ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut ninja wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit ninja lobortis nisl ut aliquip ex ea commodo consequat. Duis ninja autem vel eum iriure dolor in hendrerit in vulputate ninja velit esse molestie consequat, vel illum dolore eu feugiat nulla ninja facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam ninja ipsum liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi ninja non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes ninja demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas ninja est etiam processus dynamicus, qui ninja sequitur mutationem consuetudium lectorum. Mirum ninja est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem ninja ipsum modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in ninja futurum.
+NFT focused on helping new emerging artists to get exposure.
 
-### Lorem ninja ipsum dolor
+Organization vision: No more starving artists, a platform to empower artists. 
 
-Lorem ninja ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut ninja wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit ninja lobortis nisl ut aliquip ex ea commodo consequat. Duis ninja autem vel eum iriure dolor in hendrerit in vulputate ninja velit esse molestie consequat, vel illum dolore eu feugiat nulla ninja facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam ninja ipsum liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi ninja non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes ninja demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas ninja est etiam processus dynamicus, qui ninja sequitur mutationem consuetudium lectorum. Mirum ninja est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem ninja ipsum modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in ninja futurum.
+Money raised from NFTs of this project can be invested in new emerging artists to recieve exposure or even help them finance their launch for a much smaller royalty than those of record labels.
+To put it into perspective record labels take from 50% off the biggest stars all the way to 80%. 
+
+A website and community will be built that allows users from around the world to vote for new emerging artists to be promoted or aid in launching their careers.
+
+Longer term goal: releasing a crypto currency token as a form of investment by investors with a percentage initially invested by both myself and my partner which in turn could see our initial funding of the crypto currency rocket. This could create persay share holders with the royalties that return from our investment in the creators and artists continue to add additional value to both the organization and returns to the investors.
+
+The project shall be named "No Hungry Artists" with the tokens named NSA tokens.
+
+### 
+

@@ -57,5 +57,6 @@
 @media (max-width: 800px) {
   .flexcontainer {
     flex-direction: column;
+    display: flex;
   }
 }
