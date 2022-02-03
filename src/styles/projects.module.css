@@ -3,7 +3,7 @@
   }
   .portfolio > h2 {
     font-size: 3em;
-    margin-top: 80px;
+    margin-top: 40px;
   }
   .portfolio > h3 {
     font-size: 2em;
@@ -24,6 +24,7 @@
   .projectstyle p {
     color: #ccc;
     margin-top: 4px;
+    font-size: 12px;
   }
 
   /* Responsive layout - makes a one column-layout instead of two-column layout */
