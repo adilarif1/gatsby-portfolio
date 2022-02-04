@@ -6,7 +6,7 @@ import Fade from 'react-reveal/Fade';
 import { StaticImage } from "gatsby-plugin-image"
 export default function Home({data}) {
 
-  console.log(data)
+  
   return (
   
     <Layout>

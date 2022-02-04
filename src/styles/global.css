@@ -14,11 +14,14 @@ body {
   background: radial-gradient(at top left, rgba(146,43,225,1) 0%, rgba(43,9,107,1) 100%);
   background-repeat: no-repeat;
 }
+
+nav h1{text-align: left;}
 p {
   margin: 16px auto;
   line-height: 1.5em;
+  text-align: center;
 }
-
+h1{text-align: center;}
 /* layout & nav */
 .layout {
   max-width: 1200px;

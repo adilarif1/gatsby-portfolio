@@ -5,7 +5,7 @@ import {header, hand1 , btn, flexcontainer, flexitemleft, flexitemright, screen,
 import {portfolio, projectstyle} from '../../styles/projects.module.css'
 import { graphql, Link } from 'gatsby'
 export default function Home({data}) {
-    console.log(data)
+    
     const projects = data.projects.nodes
     const contact = data.contact.siteMetadata.contact
     return (
